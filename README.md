@@ -1,2 +1,5 @@
-# ISN2023_PDESimulation
-Material from the course of Partial Differential Equation Simulations at ENSEM - Université de Lorraine.
+## Université de Lorraine - ISN ENSEM
+# Simulation des Équations Différentielles Partielles
+
+Matériel du cours du S7 - 2èmme année 2023/1. Professeur : Fatmir Asllanaj.
+
